@@ -93,7 +93,7 @@ The dashboard displays the following metrics based on the current analysis:
 
 ## 📈 Dashboard Preview
 
-![Food Delivery Sales and Performance Dashboard](images/food-delivery-dashboard.png)
+<img width="1027" height="683" alt="food-delivery-dashboard" src="https://github.com/user-attachments/assets/d4b08857-0d10-45d8-9752-b48dd2034d4b" />
 
 ## 📉 Dashboard Visualizations
 
